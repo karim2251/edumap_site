@@ -1,0 +1,179 @@
+{
+    "Etablissement de Formation": [
+      {
+        "Filière": "Employé d'Etages",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Zagora": [
+      {
+        "Filière": "Opérateur en Valorisation des Dattes",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Tiznit": [
+      {
+        "Filière": "Plomberie Sanitaire",
+        "Niveau de Formation": "Spécialisation"
+      },
+      {
+        "Filière": "Ouvrier Spécialisé en Coupe et Couture",
+        "Niveau de Formation": "Spécialisation"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Tinghir": [
+      {
+        "Filière": "Menuiserie Aluminium",
+        "Niveau de Formation": "Spécialisation"
+      },
+      {
+        "Filière": "Plomberie Sanitaire",
+        "Niveau de Formation": "Spécialisation"
+      },
+      {
+        "Filière": "Technicien en Construction Métallique",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Tata": [
+      {
+        "Filière": "Ouvrier Qualifié en Espaces Verts",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Ouvrier Qualifié en Coupe et Couture",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Agent de Restauration",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Tafraout": [
+      {
+        "Filière": "Electricité d'Installation",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Réparateur de Véhicules Automobiles",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Agent de Restauration",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Taddart Anza": [
+      {
+        "Filière": "Ouvrier Polyvalent en Construction Métallique",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Mécanicien Général Polyvalent",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Ouvrier Qualifié en Coupe et Couture",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Ouarzazate": [
+      {
+        "Filière": "Plomberie Sanitaire",
+        "Niveau de Formation": "Spécialisation"
+      },
+      {
+        "Filière": "Peintre Vitrier",
+        "Niveau de Formation": "Spécialisation"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Inezgane": [
+      {
+        "Filière": "Ouvrier Spécialisé en Coupe et Couture",
+        "Niveau de Formation": "Spécialisation"
+      }
+    ],
+    "Institut Spécialisé de Technologie Appliquée Agadir": [
+      {
+        "Filière": "Technicien en Construction Métallique",
+        "Niveau de Formation": "Technicien"
+      }
+    ],
+    "Institut Spécialisé de l’Hôtellerie et de La Restauration Agadir": [
+      {
+        "Filière": "Ouvrier Qualifié en Espaces Verts",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Employé d'Etages",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut de Technologie Appliquée Hay El Farah Agadir": [
+      {
+        "Filière": "Coupe Cuir",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Montage Chaussure",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Institut de Technologie Appliquée Agadir": [
+      {
+        "Filière": "Ouvrier Qualifié en Espaces Verts",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Ouvrier Polyvalent en Construction Métallique",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Soudeur International Multi-Procédés",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Réparateur des Equipements Electroménagers",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Carrosserie Peinture Automobile",
+        "Niveau de Formation": "Qualification"
+      },
+      {
+        "Filière": "Plomberie Sanitaire",
+        "Niveau de Formation": "Spécialisation"
+      },
+      {
+        "Filière": "Technicien en Fabrication Mécanique",
+        "Niveau de Formation": "Technicien"
+      },
+      {
+        "Filière": "Monteur Régleur en Plasturgie",
+        "Niveau de Formation": "Technicien"
+      }
+    ],
+    "Centre Mixte de Formation Professionnelle Agadir": [
+      {
+        "Filière": "Ouvrier Qualifié en Bijouterie",
+        "Niveau de Formation": "Qualification"
+      }
+    ],
+    "Centre de Qualification Professionnelle Taroudant": [
+      {
+        "Filière": "Plomberie Sanitaire",
+        "Niveau de Formation": "Spécialisation"
+      }
+    ],
+    "Centre de Formation des Métiers du Cinéma Ouarzazate": [
+      {
+        "Filière": "Technicien en Costume et Habillage pour le Cinéma et le Spectacle",
+        "Niveau de Formation": "Technicien"
+      },
+      {
+        "Filière": "Technicien en Coiffure et Maquillage pour le Cinéma",
+        "Niveau de Formation": "Technicien"
+      }
+    ]
+  }
+  
